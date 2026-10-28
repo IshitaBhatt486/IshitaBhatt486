@@ -53,7 +53,7 @@ I build practical software and intelligent systems - from real-time computer vis
 
 | Project | What it does |
 |---|---|
-| [Zapp!](YOUR_ZAPP_REPOSITORY_URL) | Retro space-shooter built with Python and Pygame: modular six-module codebase, 60 FPS gameplay, escalating enemy waves, boss battles every four waves, power-ups, seven sound effects, original looping music, animated explosions, and persistent high scores. |
+| [Zapp!](https://github.com/IshitaBhatt486/Zapp-2D-Video-Game) | Retro space-shooter built with Python and Pygame: modular six-module codebase, 60 FPS gameplay, escalating enemy waves, boss battles every four waves, power-ups, seven sound effects, original looping music, animated explosions, and persistent high scores. |
 | [Physics Engine](https://github.com/IshitaBhatt486/Physics-Engine) | Interactive 60 FPS physics simulation featuring gravity, damping, elastic wall collisions, mass-aware circle collisions, and automated tests. |
 | [2D Shooter](https://github.com/IshitaBhatt486/2D-Shooter-Video-Game) | Side-scrolling Pygame action game with tile-based levels, enemy NPCs, pickups, hazards, and level exits. |
 
